@@ -98,6 +98,7 @@
                 }
             }
         ],
+        "linebreak-style": ["error", "unix"],
         "lines-around-comment": "off",
         "lines-around-directive": [
             "error",
